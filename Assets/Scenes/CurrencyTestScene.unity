@@ -997,7 +997,8 @@ MonoBehaviour:
   prefsSaver:
     saveKey: testWallet
   binarySaver:
-    fileSavePath: 
+    fileSavePath: testWallet.dat
+  preferredSaver: 1
   wallet:
     currencies:
     - balance: 1
