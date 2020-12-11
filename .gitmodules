@@ -1,0 +1,3 @@
+[submodule "Assets/Modules/WalletModule"]
+	path = Assets/Modules/WalletModule
+	url = https://github.com/Chaosdevelop/WalletModule.git
